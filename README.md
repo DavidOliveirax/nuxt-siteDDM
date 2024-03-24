@@ -1,2 +1,2 @@
 # nuxt-siteDDM
- DDM Informática store website, using vueJS, NuxtJS, Tailwind and NuxtUI
+ Page for selling DDM products, using vueJS, NuxtJS, Tailwind and NuxtUI
